@@ -1,19 +1,19 @@
-#Friend Finder
+# Friend Finder
 
 Friend finder is a dating app that will take in results from your user's surveys, then compare their answers with those from other users. 
 
-##Getting started
+## Getting started
 
-###Prerequisites
+### Prerequisites
 
-###Installing
+### Installing
 
-##Deployment
+## Deployment
 
-##Built With
+## Built With
 
-##Authors
+## Authors
 
-##License
+## License
 
-##Acknowledgments
+## Acknowledgments
